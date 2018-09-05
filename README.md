@@ -8,3 +8,4 @@ call it every hour
 have fun
 
 ![alt text](https://raw.githubusercontent.com/solarsnoop/emoncms_weather_datas_openweathermap.org/example.jpg)
+
