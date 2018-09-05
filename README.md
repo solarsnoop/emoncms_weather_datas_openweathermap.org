@@ -9,3 +9,6 @@ have fun
 
 ![alt text](https://raw.githubusercontent.com/solarsnoop/emoncms_weather_datas_openweathermap.org/example.jpg)
 
+example:
+https://emoncms.de/dashboard/view&id=5
+
